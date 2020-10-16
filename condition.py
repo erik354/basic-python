@@ -9,7 +9,6 @@ elif a == b:
 
 else :
     print ("a lebih kecil dari b")
-
     print(True and True)
 
     print(True and False)
